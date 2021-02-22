@@ -11,6 +11,8 @@ the most popular metaphor corpus for English namely, the VUA corpus.
 
 ### Datasets
 
+The dataset is publicly available: [Download Cometa Dataset](https://github.com/ixa-ehu/cometa/blob/main/dataset.zip)
+
 ### Metaphor Detection Results
 
 We leverage CoMeta to fine-tune XLM-RoBERTa. We believe that the close performance achieved in comparison to the results obtained with the
