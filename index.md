@@ -21,3 +21,4 @@ corpora for their languages of interest.
 
 ### References
 
+Elisa Sánchez. Bla bla bla. (addi.ehu.eus)
