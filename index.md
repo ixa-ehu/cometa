@@ -20,5 +20,3 @@ larger English VUA dataset are quite promising and encouraging for future resear
 corpora for their languages of interest.
 
 ### References
-
-Elisa Sánchez. Bla bla bla. (addi.ehu.eus)
