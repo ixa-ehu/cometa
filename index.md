@@ -21,4 +21,4 @@ corpora for their languages of interest.
 
 ### References
 
-Sánchez-Bayona, Elisa, *Detection of Everyday Metaphor in Spanish: Annotation and Evaluation*, Language Analysis and Processing, Master's Thesis, University of the Basque Country (UPV/EHU), 2021. [PDF](https://github.com/ixa-ehu/cometa/blob/main/Sanchez-Bayona_MasterThesis.pdf)
+Sánchez-Bayona, Elisa, *Detection of Everyday Metaphor in Spanish: Annotation and Evaluation*, Language Analysis and Processing Master's Thesis, University of the Basque Country (UPV/EHU), 2021. [PDF](https://github.com/ixa-ehu/cometa/blob/main/Sanchez-Bayona_MasterThesis.pdf)
