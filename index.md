@@ -7,7 +7,10 @@ CoMeta is comprised of miscellaneous texts in Spanish, a subset of 1925 sentence
 
 ### CoMeta Description 
 
-The annotation of CoMeta has been developed by following the MIPVU guidelines (Steen et al. 2010) used to label
+
+CoMeta consists of a total number of 3633 sentences with annotations at token level and binary tagging (B-METAPHOR/O). Only words with semantic content were candidates for the labelling, that includes verbs, nouns, adjectives and adverbs. Due to the subjectivity of the annotations process, the dataset is susceptible of continuous updates, as well as open to improvements.
+
+The annotation of CoMeta has been developed by following the MIPVU guidelines (Steen et al. 2010), used to label
 the most popular metaphor corpus for English: the [VUAM corpus](http://www.vismet.org/metcor/documentation/home.html). 
 
 These instructions can be summarized as follows:
@@ -24,11 +27,6 @@ These instructions can be summarized as follows:
    (c) If the lexical unit has a more basic current–contemporary meaning in other con- texts than the given context, decide whether the contextual meaning contrasts with the basic meaning but can be understood in comparison with it.
    
 4. If yes, mark the lexical unit as metaphorical.
-
-The annotations were performed at token level only for words with semantic content, that is verbs, nouns, adjectives and adverbs. 
-
-CoMeta consists of a total number of 3633 sentences with annotations at token level and binary tagging (B-METAPHOR/O). Only words with semantic content were candidates for the labelling, that includes verbs, nouns, adjectives and adverbs. Due to the subjectivity of the annotations process, the dataset is susceptible of continuous updates, as well as open to improvements.
-
 
 ### Datasets
 
