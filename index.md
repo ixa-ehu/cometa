@@ -30,19 +30,19 @@ These instructions can be summarized as follows:
 
 ### Datasets
 
-The dataset is publicly available: [Download Cometa Dataset](https://github.com/ixa-ehu/cometa/blob/main/dataset.zip)
+The dataset is publicly available: [Download Cometa Dataset v1](https://github.com/ixa-ehu/cometa/raw/main/dataset.zip)
 
 ### Metaphor Detection Results
 
-We leverage CoMeta to fine-tune XLM-RoBERTa. We believe that the close performance achieved in comparison to the results obtained with the
-larger English VUA dataset are quite promising and encouraging for future researchers interested in using CoMeta or in developing their own
-corpora for their languages of interest.
+![]({{ ixa-ehu.github.io }}/cometa/images/results.png)
+![]({{ ixa-ehu.github.io }}/cometa/images/crosslingual.png)
 
-### References
+The results show the high-performance of newer Large Language Models such as DeBERTa for English. Furthemrore, it is certainly noticeable the high transfer of metaphor across these two languages. We hypothesize that these results may be due to the difference in size of the training data
+in both languages or the application of MIPVU guidelines to Spanish, which is not the language it was originally designed for. Future experimental
+work is needed to test these interpretations.
 
-* Sánchez-Bayona, Elisa. (2021). *Detection of Everyday Metaphor in Spanish: Annotation and Evaluation*, Language Analysis and Processing Master's Thesis, University of the Basque Country (UPV/EHU), 2021. [PDF](https://github.com/ixa-ehu/cometa/blob/main/Sanchez-Bayona_MasterThesis.pdf)
+### Citation
 
-* Steen, Gerard & Dorst, Lettie & Herrmann, J. & Kaal, Anna & Krennmayr, Tina & Pasma, Trijntje. (2010). *A method for linguistic metaphor identification: From MIP to MIPVU*. 
+If you use this resource, please cite the following paper: 
 
-* Taulé, M., M.A. Martí, M. Recasens (2008) 'Ancora: Multilevel Annotated Corpora for Catalan and Spanish', Proceedings of 6th International Conference on Language Resources and Evaluation. Marrakesh (Morocco).
-
+Elisa Sanchez-Bayona and Rodrigo Agerri (2022). [Leveraging a New Spanish Corpus for Multilingual and Crosslingual Metaphor Detection](https://arxiv.org/pdf/2210.10358). In CoNLL 2022.
