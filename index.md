@@ -30,7 +30,7 @@ These instructions can be summarized as follows:
 
 ### Datasets
 
-The dataset is publicly available: [Download Cometa Dataset v1](https://github.com/ixa-ehu/cometa/raw/main/dataset.zip)
+The dataset is publicly available: [Download Cometa Dataset v1](https://github.com/ixa-ehu/cometa/raw/main/cometa_dataset_v1.zip)
 
 ### Metaphor Detection Results
 
