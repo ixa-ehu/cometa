@@ -41,7 +41,7 @@ The results show the high-performance of newer Large Language Models such as DeB
 in both languages or the application of MIPVU guidelines to Spanish, which is not the language it was originally designed for. Future experimental
 work is needed to test these interpretations.
 
-### Citation
+### Paper
 
 If you use this resource, please cite the following paper: 
 
